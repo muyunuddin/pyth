@@ -1,1 +1,1 @@
-echo this is python file
+print ("wassup buddy")
